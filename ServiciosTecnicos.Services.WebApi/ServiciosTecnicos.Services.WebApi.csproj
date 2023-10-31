@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="ClientApp\angular.json" />
+    <Content Remove="ClientApp\package-lock.json" />
+    <Content Remove="ClientApp\package.json" />
+    <Content Remove="ClientApp\tsconfig.app.json" />
+    <Content Remove="ClientApp\tsconfig.json" />
+    <Content Remove="ClientApp\tsconfig.spec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ClientApp\angular.json" />
+    <None Include="ClientApp\package-lock.json" />
+    <None Include="ClientApp\package.json" />
+    <None Include="ClientApp\tsconfig.app.json" />
+    <None Include="ClientApp\tsconfig.json" />
+    <None Include="ClientApp\tsconfig.spec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.27.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiciosTecnicos.Aplication.Dto\ServiciosTecnicos.Aplication.Dto.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Aplication.Interface\ServiciosTecnicos.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Aplication.Main\ServiciosTecnicos.Aplication.Main.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Domain.Core\ServiciosTecnicos.Domain.Core.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Domain.Entity\ServiciosTecnicos.Domain.Entity.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Domain.Interface\ServiciosTecnicos.Domain.Interface.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Infrastructure.Data\ServiciosTecnicos.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Infrastructure.Interface\ServiciosTecnicos.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Infrastructure.Repository\ServiciosTecnicos.Infrastructure.Repository.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Tranverse.Common\ServiciosTecnicos.Tranverse.Common.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Tranverse.Logging\ServiciosTecnicos.Tranverse.Logging.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Tranverse.Mapper\ServiciosTecnicos.Tranverse.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\bin\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.deps.json
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\bin\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\bin\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.csproj.AssemblyReference.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.AssemblyInfoInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.AssemblyInfo.cs
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.csproj.CoreCompileInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.csproj.CopyComplete
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\refint\Proyecto.Sistemas.Aplication.Validator.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\Proyecto.Sistemas.Aplication.Validator.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\Proyecto.Sistemas.Aplication.Validator\obj\Debug\net6.0\ref\Proyecto.Sistemas.Aplication.Validator.dll

@@ -1,0 +1,1077 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Services.WebApi\\ServiciosTecnicos.Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj",
+        "projectName": "Proyecto.Sistemas.Aplication.Validator",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj",
+        "projectName": "ServiciosTecnicos.Aplication.Dto",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj",
+        "projectName": "ServiciosTecnicos.Aplication.Interface",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\ServiciosTecnicos.Aplication.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\ServiciosTecnicos.Aplication.Main.csproj",
+        "projectName": "ServiciosTecnicos.Aplication.Main",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\ServiciosTecnicos.Aplication.Main.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\ServiciosTecnicos.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\ServiciosTecnicos.Domain.Core.csproj",
+        "projectName": "ServiciosTecnicos.Domain.Core",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\ServiciosTecnicos.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj",
+        "projectName": "ServiciosTecnicos.Domain.Entity",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj",
+        "projectName": "ServiciosTecnicos.Domain.Interface",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj",
+        "projectName": "ServiciosTecnicos.Infrastructure.Data",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj",
+        "projectName": "ServiciosTecnicos.Infrastructure.Interface",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\ServiciosTecnicos.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\ServiciosTecnicos.Infrastructure.Repository.csproj",
+        "projectName": "ServiciosTecnicos.Infrastructure.Repository",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\ServiciosTecnicos.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Services.WebApi\\ServiciosTecnicos.Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Services.WebApi\\ServiciosTecnicos.Services.WebApi.csproj",
+        "projectName": "ServiciosTecnicos.Services.WebApi",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Services.WebApi\\ServiciosTecnicos.Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Interface\\ServiciosTecnicos.Aplication.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\ServiciosTecnicos.Aplication.Main.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Main\\ServiciosTecnicos.Aplication.Main.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\ServiciosTecnicos.Domain.Core.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Core\\ServiciosTecnicos.Domain.Core.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Interface\\ServiciosTecnicos.Domain.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Data\\ServiciosTecnicos.Infrastructure.Data.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Interface\\ServiciosTecnicos.Infrastructure.Interface.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\ServiciosTecnicos.Infrastructure.Repository.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Infrastructure.Repository\\ServiciosTecnicos.Infrastructure.Repository.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\ServiciosTecnicos.Tranverse.Logging.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\ServiciosTecnicos.Tranverse.Logging.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj",
+        "projectName": "ServiciosTecnicos.Tranverse.Common",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\ServiciosTecnicos.Tranverse.Common.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\ServiciosTecnicos.Tranverse.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\ServiciosTecnicos.Tranverse.Logging.csproj",
+        "projectName": "ServiciosTecnicos.Tranverse.Logging",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\ServiciosTecnicos.Tranverse.Logging.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj",
+        "projectName": "ServiciosTecnicos.Tranverse.Mapper",
+        "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj",
+        "packagesPath": "C:\\Users\\figap\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\figap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Aplication.Dto\\ServiciosTecnicos.Aplication.Dto.csproj"
+              },
+              "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj": {
+                "projectPath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Domain.Entity\\ServiciosTecnicos.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.deps.json
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.csproj.AssemblyReference.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.AssemblyInfoInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.AssemblyInfo.cs
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.csproj.CoreCompileInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\refint\ServiciosTecnicos.Tranverse.Logging.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Logging.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Logging\obj\Debug\net6.0\ref\ServiciosTecnicos.Tranverse.Logging.dll

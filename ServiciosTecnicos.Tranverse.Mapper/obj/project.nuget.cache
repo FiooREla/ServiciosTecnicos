@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxG+zMXERURTroJuk+rlB6xe0nEX89PoZZ4klmq/FrskkJZppNj0mAVQAYZ/lDzbmC/rewSgPPpBrGTLLeWcrA==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\ServiciosTecnicos.Tranverse.Mapper\\ServiciosTecnicos.Tranverse.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\figap\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\figap\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

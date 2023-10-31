@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiciosTecnicos.Infrastructure.Data\ServiciosTecnicos.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Infrastructure.Interface\ServiciosTecnicos.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\ServiciosTecnicos.Tranverse.Common\ServiciosTecnicos.Tranverse.Common.csproj" />
+  </ItemGroup>
+
+</Project>

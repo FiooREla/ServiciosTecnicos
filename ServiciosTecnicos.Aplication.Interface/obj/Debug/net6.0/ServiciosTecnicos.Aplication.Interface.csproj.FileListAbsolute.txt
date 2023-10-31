@@ -1,0 +1,17 @@
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.deps.json
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Common.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Common.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.csproj.AssemblyReference.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.AssemblyInfoInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.AssemblyInfo.cs
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.csproj.CoreCompileInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.csproj.CopyComplete
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\refint\ServiciosTecnicos.Aplication.Interface.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Interface.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Interface\obj\Debug\net6.0\ref\ServiciosTecnicos.Aplication.Interface.dll

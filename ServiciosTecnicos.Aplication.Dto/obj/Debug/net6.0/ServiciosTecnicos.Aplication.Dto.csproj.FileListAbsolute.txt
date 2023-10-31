@@ -1,0 +1,12 @@
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.deps.json
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.csproj.AssemblyReference.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.AssemblyInfoInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.AssemblyInfo.cs
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.csproj.CoreCompileInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\refint\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Aplication.Dto\obj\Debug\net6.0\ref\ServiciosTecnicos.Aplication.Dto.dll

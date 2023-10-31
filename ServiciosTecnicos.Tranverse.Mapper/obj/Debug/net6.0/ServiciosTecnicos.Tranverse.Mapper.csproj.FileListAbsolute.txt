@@ -1,0 +1,17 @@
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.deps.json
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Domain.Entity.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Aplication.Dto.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\bin\Debug\net6.0\ServiciosTecnicos.Domain.Entity.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.csproj.AssemblyReference.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.AssemblyInfoInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.AssemblyInfo.cs
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.csproj.CoreCompileInputs.cache
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.csproj.CopyComplete
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\refint\ServiciosTecnicos.Tranverse.Mapper.dll
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ServiciosTecnicos.Tranverse.Mapper.pdb
+D:\proyectos\ServiciosTecnicos\ServiciosTecnicos\ServiciosTecnicos.Tranverse.Mapper\obj\Debug\net6.0\ref\ServiciosTecnicos.Tranverse.Mapper.dll

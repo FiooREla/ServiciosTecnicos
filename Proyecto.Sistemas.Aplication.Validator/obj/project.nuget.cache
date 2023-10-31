@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwWhPiFnlfU0FdM/Gtl/j+6vZprpgh/26qh9/6+CsZw66Dl49TPJYqOgfkNBaexiHATWMI3dPJRDGVdlk1J+vw==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos\\ServiciosTecnicos\\ServiciosTecnicos\\Proyecto.Sistemas.Aplication.Validator\\Proyecto.Sistemas.Aplication.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\figap\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
